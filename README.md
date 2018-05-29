@@ -30,6 +30,5 @@ namespace TOI
             Console.ReadKey();
         }
     }
-    
-   
+       
 }
